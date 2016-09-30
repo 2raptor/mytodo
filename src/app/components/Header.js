@@ -16,7 +16,7 @@ class Header extends Component {
   render() {
     return (
       <header className="header">
-        <h1>Yeoman!</h1>
+        <h1>Fly High!</h1>
         <TodoTextInput
           newTodo
           onSave={this.handleSave}
